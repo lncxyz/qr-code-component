@@ -45,7 +45,7 @@ body{
 .container{
   background-color: var(--White);
   padding: 1.25rem;
-  border-radius: 0.624rem;
+  border-radius: 1rem;
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3 );
   margin-bottom: 2rem;
 
@@ -63,7 +63,7 @@ body{
 
 @media (min-width: 500px) {
   .container {
-    width: 400px;
+    width: 300px;
   }
 }
 
